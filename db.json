@@ -1,0 +1,25 @@
+{
+  "contactos": [
+    {
+      "nombre": "Carolina Marin",
+      "telefono": "3124908192",
+      "correo": "carom@gmail.com",
+      "etiqueta": "novia",
+      "id": "515b"
+    },
+    {
+      "id": "34bf",
+      "nombre": "Gustavo Bolaños",
+      "telefono": "3217532037",
+      "correo": "gabodorado@hotmail.com",
+      "etiqueta": "profe"
+    },
+    {
+      "id": "522c",
+      "nombre": "Carolina Marin",
+      "telefono": "3217532037",
+      "correo": "carom@gmail.com",
+      "etiqueta": "novia2"
+    }
+  ]
+}
