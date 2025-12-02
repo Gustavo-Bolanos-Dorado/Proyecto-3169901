@@ -1,10 +1,10 @@
 {
   "contactos": [
     {
-      "nombre": "Carolina Marin",
+      "nombre": "Carolina Marin salazar",
       "telefono": "3124908192",
       "correo": "carom@gmail.com",
-      "etiqueta": "novia",
+      "etiqueta": "novia y amiga",
       "id": "515b"
     },
     {
@@ -20,6 +20,13 @@
       "telefono": "3217532037",
       "correo": "carom@gmail.com",
       "etiqueta": "novia2"
+    },
+    {
+      "nombre": "Jorge Gonzalez m",
+      "telefono": "32536",
+      "correo": "jorgeg@gmail.com",
+      "etiqueta": "mejor estudiante",
+      "id": "1896"
     }
   ]
 }
